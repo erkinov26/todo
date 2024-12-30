@@ -56,9 +56,8 @@ const TodoApp: React.FC = () => {
 				Complete All
 			</button>
 
-
+		
 <h1>Hello Dunyo</h1>
-
 
 			{/* Filter Buttons */}
 			<div className="flex space-x-2 mb-4">
